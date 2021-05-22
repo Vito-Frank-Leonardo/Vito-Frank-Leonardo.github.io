@@ -18,11 +18,11 @@ I also really enjoy developing the mathematical statistics and theory behind man
 
 I grew up in Queens, NY but I relocated to Central Florida in March of 2020 when the COVID-19 pandemic made me lose my job and NYC rent/living conditions became unbearable. I have a 16 month old son named Luca and a wife named Myrtle. Here is a picture of us at his baptism in January: 
 
-![](https://raw.githubusercontent.com/Vito-Frank-Leonardo/Vito-Frank-Leonardo.github.io/master/images/LucaBaptismFamily.jpg)
+![](https://raw.githubusercontent.com/Vito-Frank-Leonardo/Vito-Frank-Leonardo.github.io/master/images/LucaBaptismFamily.JPG)
 
 I hope to be employed full time by September so I can move my family into a better home near Tampa, Fl. Once I have a stable income, I hope to move my mother down from NY to come live with us so that she can retire and spend quality time with my son. Here is a picture of them together: 
 
-![](https://raw.githubusercontent.com/Vito-Frank-Leonardo/Vito-Frank-Leonardo.github.io/master/images/LucaBaptismMom.jpg)
+![](https://raw.githubusercontent.com/Vito-Frank-Leonardo/Vito-Frank-Leonardo.github.io/master/images/LucaBaptismMom.JPG)
 
 They have a great relationship and I cannot wait to reunite them again!
 
