@@ -10,7 +10,7 @@ My name is Vito; I am a graduate student at **North Carolina State University** 
 
 As an undergrad, I enjoyed the topics of *Finance and Economics* but I could not enjoy the work that many in the traditional finance industry do. However, I also enjoyed *Mathematics and Statistics* so I found a happy medium in **Econometrics**. This coursework and research experiences exposed me to *Regression Analysis*, *Longitudinal Data*, *Time Series Analysis*, and programming in *Python* and *R*. This inspired me to pursue my *Master of Statistics* degree at **NCSU**. 
 
-My favorite types of models to build are **time series models** (*ARIMA*, *VAR*, *GARCH*, etc) and models for **longitudinal data** (*GLS*, *LME*, etc). I love the ability to use data to model trends, predict future events, analyze variabilty, and quantify uncertainty about relationships between variables. I think statistics is **POWERFUL** and **EXCITING**!
+My favorite types of models to build are **time series models** (`ARIMA`, `VAR`, `GARCH`, etc) and models for **longitudinal data** (`GLS`, `LME`, etc). I love the ability to use data to model trends, predict future events, analyze variabilty, and quantify uncertainty about relationships between variables. I think statistics is **POWERFUL** and **EXCITING**!
 
 I also really enjoy developing the mathematical statistics and theory behind many of these models. ST501 and 502 were my favorite courses and I hope to take more mathematical statistics courses in the future as I continue my education. 
 
