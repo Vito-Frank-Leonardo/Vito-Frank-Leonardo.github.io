@@ -2,13 +2,13 @@
 layout: post
 title: Thoughts about R!
 ---
-# What are your thoughts on R vs whatever other software you've used?  
+### What are your thoughts on R vs whatever other software you've used?  
 I have used SAS, Python, and C++. R is less structured than SAS and it gives more freedom to the programmer but it is also better designed for statistics than Python and C++. 
 
-# What functionality do you like about R?  
+### What functionality do you like about R?  
 I like that R is vectorized and allows for easier use of mathematics than SAS and Python. 
 
-# What parts do you miss about your other language?  
+### What parts do you miss about your other language?  
 I miss that SAS has one standard way to solve every problem while R has many. It makes it hard to remember which packages to library and which functions to use. 
 
 #Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.)
