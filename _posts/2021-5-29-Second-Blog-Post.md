@@ -11,5 +11,5 @@ I like that R is vectorized and allows for easier use of mathematics than SAS an
 ### What parts do you miss about your other language?  
 I miss that SAS has one standard way to solve every problem while R has many. It makes it hard to remember which packages to library and which functions to use. 
 
-#Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.)
+### Do you consider R a difficult language to learn? 
 I do not find R a difficult language. Once I got the hang of it, it actually is the easiest for me. I found Python and SAS significantly easier to learn at the beginning but R was much easier than C++ and Java. 
