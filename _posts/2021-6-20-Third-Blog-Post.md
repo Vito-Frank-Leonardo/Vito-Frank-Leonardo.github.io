@@ -15,7 +15,7 @@ You should also reflect on the process you went through for this project. Discus
 
 ### Where to Find the Project
 
-Github Pages Repo: https://vito-frank-leonardo.github.io/ST558-Project1/
+**Github Pages Repo:** [https://vito-frank-leonardo.github.io/ST558-Project1/](https://vito-frank-leonardo.github.io/ST558-Project1/)
 
-Usual Repo: https://github.com/Vito-Frank-Leonardo/ST558-Project1
+**Usual Repo:** [https://github.com/Vito-Frank-Leonardo/ST558-Project1](https://github.com/Vito-Frank-Leonardo/ST558-Project1)
 
