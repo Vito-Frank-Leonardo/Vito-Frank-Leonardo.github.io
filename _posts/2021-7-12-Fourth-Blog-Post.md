@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts about Project 1 from ST558!
+title: Thoughts about Project 2 from ST558!
 ---
 
 ### Outlining the Project
