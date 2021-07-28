@@ -14,7 +14,7 @@ I think that most of what we learned is incredible useful even if we are not wor
 
 ### What things are you going to do differently in practice now that you've had this course?
 
-The course changed how I use R. Learning how to use the GitHub repo to improve project workflow and R markdown to create documents really imrpoved my productivity. 
+The course changed how I use R. Learning how to use the GitHub repo to improve project workflow and R markdown to create documents really improved my productivity. I will continue to use GitHub and R Markdown to document and track my progress as I work through many projects. 
 
 
 
