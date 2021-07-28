@@ -3,18 +3,25 @@ layout: post
 title: Thoughts about Project 2 from ST558!
 ---
 
-### What (if anything) has changed about what you think a data scientist is and what they do?
+### Outlining the Project
 
-I do not think much has changed in my opinion of what a data scientist does (from this course). The course did however clarify how data scientists build and implement models. 
+In this project, my partner and I read and summarized bike sharing data then built models to predict the count of bike users in any given day. We first cleaned the data for model development then created a test and training set. After exploring the data with numerical summaries, tables, and plots, we fit 4 models. We fit two regression models, a random forest model, and a boosted tree model. After fitting all 4 models, we validated our models with the test set and computed the Test MSE. We used the MSE to determined which model was the best for the day. Lastly, we automated R markdown to complete this analysis for all 7 weekdays. 
 
+### What would you do differently?
 
-### What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
+If I were to do this project again, I do not think that I would do much differently. I may have used the Caret package to fit the linear models instead of the lm function though.
 
-I think that most of what we learned is incredible useful even if we are not working in data science. The tidyverse is incredibly efficient and easy to read. R Markdown is an essential tool for a statistician to document results. Caret package is a great way to implement models. I think as long as my future employer allows it, I think that I will continue using R going forward. I am more comfortable in R than I am SAS or Python. The language feels like it is designed for data science and statistics while Python feels like a general programming language that users modify with packages to do statistics. If I was coming into data science from a computer science or software engineering background, I would most definately prefer Python. But as a statistician, I prefer R.  
+### What was the most difficult part for you?
 
-### What things are you going to do differently in practice now that you've had this course?
+The most difficult part for me was defining the tuning grid for the ensamble models. 
 
-The course changed how I use R. Learning how to use the GitHub repo to improve project workflow and R markdown to create documents really improved my productivity. I will continue to use GitHub and R Markdown to document and track my progress as I work through many projects. 
+### What are your big take-aways from this project?
 
+My big take-away from this project is that building the right model for the data is not as straight forward as it seems in textbooks. It requires a lot of judgement and expertise. 
 
+### Where to Find the Project
+
+**Github Pages Repo:** [https://maggief2.github.io/ST558Project2/](https://maggief2.github.io/ST558Project2/)
+
+**Usual Repo:** [https://github.com/maggief2/ST558Project2](https://github.com/maggief2/ST558Project2)
 
